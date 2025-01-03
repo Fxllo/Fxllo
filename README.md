@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is Fxllo and I'm a Web Developer , from Italy</h2>
+<h2 align="left">Hi 👋! My name is Fxllo and I'm a Web Developer, from Italy</h2>
 
 My name is **Filippo**, and I am passionate about technology, software development, and digital creativity. I love tackling new challenges, continuously learning, and building projects that are both useful and innovative.
+
+## 🎓 About Me:
+I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the **University of Parma**. My studies focus on software development, algorithms, and digital systems, which fuel my passion for creating impactful projects.
 
 ## 🚀 What You'll Find Here:
 - **Personal Projects**: Applications and scripts reflecting my love for coding, including games, utilities, and creative tools.  
