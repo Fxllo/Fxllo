@@ -12,7 +12,7 @@ I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the *
 
 ## 🌱 Currently Working On:
 - A **Nesting Api** entirely written in TypeScript.  
-- An interactive game built with **Pygame**.    
+- A **custom project** that analyzes invoices and digitizes data with AI.  
 
 ## 📫 How to Reach Me:
 - **Email**: [dallagliofilippo32@gmail.com](mailto:dallagliofilippo32@gmail.com)  
