@@ -16,7 +16,6 @@ I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the *
 - A **chatbot** for travelling using AI deep-research.
 - An **AI assistant** that automatically fills in the configuration for elevators.
 - A platform that helps write travel related reviews **using AI**.
-- An **AI-powered** chatbot expert in travel and itineraries.
 
 ## 📫 How to Reach Me:
 - **Email**: [dallagliofilippo32@gmail.com](mailto:dallagliofilippo32@gmail.com)  
