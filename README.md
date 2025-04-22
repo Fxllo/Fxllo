@@ -11,9 +11,9 @@ I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the *
 - **Experiments and Prototypes**: Explorations of new technologies and methodologies.  
 
 ## 🌱 Currently Working On:
-- A **Nesting Api** entirely written in TypeScript.  
+- A **Nesting Api** entirely written in TypeScript. ☑️
 - A **custom project** that analyzes invoices and digitizes data with AI.
-- A **chatbot** for travelling using AI deep-research.
+- A **chatbot** for travelling using AI deep-research. ☑️
 - An **AI assistant** that automatically fills in the configuration for elevators.
 - A platform that helps write travel related reviews **using AI**.
 
