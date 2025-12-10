@@ -18,8 +18,8 @@ I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the *
 - An **AI chatbot** for managing appointments
 
 ## 📫 How to Reach Me:
-- **Email**: [dallagliofilippo32@gmail.com](mailto:dallagliofilippo32@gmail.com)  
-  *(Click to open your email client, or copy: `dallagliofilippo32@gmail.com`)*
+- **Email**: [filippo.dallaglio@seai.dev](mailto:filippo.dallaglio@seai.dev)  
+  *(Click to open your email client, or copy: `filippo.dallaglio@seai.dev`)*
 - **[LinkedIn](https://www.linkedin.com/in/filippo-dallaglio-837278300/)**
 - **[Instagram](https://www.instagram.com/fillo.dalla/)**
 - **[Twitter (X)](https://x.com/12Filippo88)**
