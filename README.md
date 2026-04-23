@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fxllo and I'm a Product Development Manager for SEAI, from Italy</h2>
+<h2 align="left">Hi 👋! My name is Fxllo and I'm the Co-Founder of [F2N](https://www.f2n.dev), from Italy</h2>
 
 My name is **Filippo**, and I am passionate about technology, software development, and digital creativity. I love tackling new challenges, continuously learning, and building projects that are both useful and innovative.
 
@@ -18,7 +18,7 @@ I am currently pursuing a **Bachelor's Degree in Computer Engineering** at the *
 - An **AI chatbot** for managing appointments
 
 ## 📫 How to Reach Me:
-- **Email**: [filippo.dallaglio@seai.dev](mailto:filippo.dallaglio@seai.dev)  
+- **Email**: [filippo.dallaglio@f2n.dev](mailto:filippo.dallaglio@f2n.dev)  
   *(Click to open your email client, or copy: `filippo.dallaglio@seai.dev`)*
 - **[LinkedIn](https://www.linkedin.com/in/filippo-dallaglio-837278300/)**
 - **[Instagram](https://www.instagram.com/fillo.dalla/)**
